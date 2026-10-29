@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "SloCraft3.aternos.me:54089",
+    "port": 54089,
     "version": "",
     "try-creative": false
   },
